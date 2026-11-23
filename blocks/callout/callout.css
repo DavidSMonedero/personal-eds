@@ -1,0 +1,18 @@
+.callout {
+  border-left: 4px solid #1473e6;
+  background: #f0f6ff;
+  padding: 16px 20px;
+  margin: 24px 0;
+  border-radius: 4px;
+  background-color: yellow;
+}
+
+.callout .callout-title {
+  margin: 0 0 8px;
+  font-weight: 700;
+  color: #1473e6;
+}
+
+.callout .callout-body > div {
+  margin: 0;
+}
